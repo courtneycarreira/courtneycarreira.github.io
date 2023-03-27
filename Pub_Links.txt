@@ -1,0 +1,44 @@
+@INPROCEEDINGS{2023AAS...24121101C,
+ project_page = {},
+          pdf = {},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {https://baas.aas.org/pub/2023n2i211p01/release/1},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2023AAS...24121101C/exportcitation}
+}
+
+
+@INPROCEEDINGS{2021LPICo2549.7087C,
+ project_page = {},
+          pdf = {https://www.hou.usra.edu/meetings/planetdata2021/pdf/7087.pdf},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPICo2549.7087C/exportcitation}
+}
+
+@INPROCEEDINGS{2021LPI....52.2387C,
+ project_page = {},
+          pdf = {https://www.hou.usra.edu/meetings/lpsc2021/pdf/2387.pdf},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPI....52.2387C/exportcitation}
+}
+
+@INPROCEEDINGS{2021LPI....52.2258A,
+ project_page = {},
+          pdf = {https://www.hou.usra.edu/meetings/lpsc2021/pdf/2258.pdf},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPI....52.2258A/exportcitation}
+}
