@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -62,8 +62,8 @@
         </a>
         {% endif %}
 
-        {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+        {% if site.github %}
+        <a style="margin: 0 5px 0 0" href="{{ site.github }}">
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
@@ -77,6 +77,18 @@
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="ai ai-orcid"></i>
+        </a>
+        {% endif %}
+
+        {% if site.ads %}
+        <a style="margin: 0 5px 0 0" href="{{ site.ads }}">
+          <i class="ai ai-ads"></i>
         </a>
         {% endif %}
         </div>
