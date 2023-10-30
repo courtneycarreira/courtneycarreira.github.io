@@ -12,11 +12,11 @@ In my free time, I enjoy cooking and baking - along the way, I'm digitizing all 
 
 {% include_relative _includes/publications.html %}
 
-% ## Research
+<!-- ## Research
 
-% include link to ADS again
+include link to ADS again
 
-% ## Outreach & Teaching
+## Outreach & Teaching -->
 
 ## Contact
 
@@ -26,4 +26,4 @@ Office: UCSC Main Campus, ISB 255
 
 Mail: Courtney Carreira, MS: UCO / Lick Observatory, 1156 High Street, Santa Cruz, CA 95060
 
-% Science Digest info, info in layman's terms and contact about public talks
+<!-- Science Digest info, info in layman's terms and contact about public talks -->
