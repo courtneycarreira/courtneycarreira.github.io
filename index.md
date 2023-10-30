@@ -14,14 +14,8 @@ In my free time, I enjoy cooking and baking - along the way, I'm digitizing all 
 
 ## Contact
 
-Email:	[ccarreir@ucsc.edu](mailto:ccarreir@ucsc.edu)
+Email: [ccarreir@ucsc.edu](mailto:ccarreir@ucsc.edu)
 
-Office:	UCSC Main Campus, ISB 255
+Office: UCSC Main Campus, ISB 255
 
-Mail: \t Courtney Carreira
-
-\t MS: UCO / Lick Observatory
-
-\t 1156 High Street
-
-\t Santa Cruz, CA 95060
+Mail: Courtney Carreira, MS: UCO / Lick Observatory, 1156 High Street, Santa Cruz, CA 95060
