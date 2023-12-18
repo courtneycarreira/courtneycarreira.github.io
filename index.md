@@ -35,10 +35,10 @@ Email: [ccarreir@ucsc.edu](mailto:ccarreir@ucsc.edu)
 
 Office: UCSC Main Campus, Interdisciplinary Sciences Building, Office 255
 
-Mail:
-&nbsp; &nbsp; Courtney Carreira
-&nbsp; &nbsp; MS: UCO / Lick Observatory
-&nbsp; &nbsp; 1156 High Street
+Mail: <br>
+&nbsp; &nbsp; Courtney Carreira <br>
+&nbsp; &nbsp; MS: UCO / Lick Observatory <br>
+&nbsp; &nbsp; 1156 High Street <br>
 &nbsp; &nbsp; Santa Cruz, CA 95060
 
 <!-- Science Digest info, info in layman's terms and contact about public talks -->
