@@ -16,8 +16,8 @@ body {
 
 .social-icons a{
   display:inline-block;
-  height:2.4rem;
-  width:2.4rem;
+  height:3rem;
+  width:3rem;
   background-color:transparent;
   color:#043361!important;
   border-radius:100%;
@@ -196,7 +196,7 @@ papertitle {
 
 
   .image {
-    border-radius: 12px;
+    border-radius: 0px;
     border: 0;
     display: inline-block;
     position: relative;
@@ -207,7 +207,7 @@ papertitle {
       -webkit-transition: opacity 0.2s ease-in-out;
       -ms-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out;
-      border-radius: 12px;
+      border-radius: 0px;
       content: '';
       display: block;
       height: 100%;
@@ -328,7 +328,7 @@ pre {
   max-width:500px;
   padding:8px 15px;
   background: #f8f8f8;
-  border-radius:5px;
+  border-radius:0px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
 }
@@ -383,7 +383,7 @@ header ul {
   height:40px;
   padding:0;
   background: #f4f4f4;
-  border-radius:5px;
+  border-radius:0px;
   border:1px solid #e0e0e0;
   width:270px;
 }
