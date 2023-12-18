@@ -219,7 +219,7 @@ papertitle {
     }
 
     .image.avatar {
-      #border-radius: 12px;
+      /* border-radius: 12px; */
     }
 
       .image.avatar:before {
@@ -227,7 +227,7 @@ papertitle {
       }
 
       .image.avatar img {
-        #border-radius: 12px;
+        /* border-radius: 12px; */
         width: 55%;
         padding: 40px;
         // border: 1px solid #ddd;
@@ -511,9 +511,9 @@ footer {
 
 
    .image.avatar img {
-        #border-radius: 100%;
-        #width: 117px;
-        #padding:20px;
+        /* border-radius: 100%; */
+        /* width: 117px; */
+         /*padding:20px; */
       }
   #head1o2 {
     visibility: hidden;
@@ -567,9 +567,9 @@ footer {
   }
 
   .image.avatar img {
-      #border-radius: 100%;
-      #width: 95px;
-      #padding:20px;
+      /* border-radius: 100%; */
+      /* width: 95px; */
+      /* padding:20px; */
   }
   #head1o2 {
     visibility: hidden;
