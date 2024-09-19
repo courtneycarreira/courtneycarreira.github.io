@@ -50,7 +50,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
-.publications ol.bibliography li .title { font-weight: bolder; }
+.publications ol.bibliography li .title { font-weight: bolder; font-size: large; }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
