@@ -14,6 +14,8 @@ In my free time, I enjoy cooking and baking - along the way, I'm digitizing all 
 
 {% include_relative _includes/publications.html %}
 
+{% include_relative _includes/presentations.html %}
+
 ---
 
 <img src="./assets/img/aas2023_1.jpg"
@@ -33,7 +35,7 @@ include link to ADS again
 
 Email: [ccarreir@ucsc.edu](mailto:ccarreir@ucsc.edu)
 
-Office: UCSC Main Campus, Interdisciplinary Sciences Building, Office 255
+Office: Interdisciplinary Sciences Building, Office 159
 
 Mailing Address: <br>
 &nbsp; &nbsp; Courtney Carreira <br>

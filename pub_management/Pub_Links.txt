@@ -1,3 +1,16 @@
+@ARTICLE{2024ApJ...970...31R,
+ project_page = {},
+          pdf = {https://iopscience.iop.org/article/10.3847/1538-4357/ad463d/pdf},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {https://iopscience.iop.org/article/10.3847/1538-4357/ad463d},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2024ApJ...970...31R/exportcitation},
+        press = {https://webbtelescope.org/contents/early-highlights/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy}
+}
+
+
 @INPROCEEDINGS{2023AAS...24121101C,
  project_page = {},
           pdf = {},
@@ -6,7 +19,8 @@
         photo = {},
          code = {},
        source = {https://baas.aas.org/pub/2023n2i211p01/release/1},
-       bibtex = {https://ui.adsabs.harvard.edu/abs/2023AAS...24121101C/exportcitation}
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2023AAS...24121101C/exportcitation},
+        press = {}
 }
 
 
@@ -18,7 +32,8 @@
         photo = {},
          code = {},
        source = {},
-       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPICo2549.7087C/exportcitation}
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPICo2549.7087C/exportcitation},
+        press = {}
 }
 
 @INPROCEEDINGS{2021LPI....52.2387C,
@@ -29,7 +44,8 @@
         photo = {},
          code = {},
        source = {},
-       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPI....52.2387C/exportcitation}
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPI....52.2387C/exportcitation},
+        press = {}
 }
 
 @INPROCEEDINGS{2021LPI....52.2258A,
@@ -40,5 +56,6 @@
         photo = {},
          code = {},
        source = {},
-       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPI....52.2258A/exportcitation}
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPI....52.2258A/exportcitation},
+        press = {}
 }
