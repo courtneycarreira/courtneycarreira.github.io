@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year graduate student at the University of California, Santa Cruz, in the [Department of Astronomy and Astrophysics](https://www.astro.ucsc.edu/index.html). I am an observational astronomer, with a particular interest in star formation and its associated processes. Currently, I'm working with Professor Brant Robertson in the [UCSC Computational Astrophysics](https://robertson.sites.ucsc.edu/) group, using data from the [JWST Advanced Deep Extragalactic Survey (JADES)](https://jades-survey.github.io/) to study star formation extragalactically.
+I am a second-year PhD student at the University of California, Santa Cruz, in the [Department of Astronomy and Astrophysics](https://www.astro.ucsc.edu/index.html). I am an observational astronomer, with a particular interest in star formation and its associated processes. Currently, I'm working with Professor Brant Robertson in the [UCSC Computational Astrophysics](https://robertson.sites.ucsc.edu/) group, using data from the [JWST Advanced Deep Extragalactic Survey (JADES)](https://jades-survey.github.io/) to study star formation extragalactically through the lens of galaxy morphology.
 
 I'm also working with Eric Koch and Sarah Jeffreson at the Center for Astrophysics \| Harvard & Smithsonian on a project studying the effect of spiral structure on molecular cloud and star formation, which I started as a [SAO Astronomy REU](https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program) intern in Summer 2022.
 
