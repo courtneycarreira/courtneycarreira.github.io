@@ -31,6 +31,10 @@ include link to ADS again
 
 ## Outreach & Teaching -->
 
+## In the Press
+
+I was featured on a podcast about my experience as an early-career researcher working with JWST data - click [here](https://soundcloud.com/scicom-slugs/conducting-science-with-jwst-as-an-early-career-researcher?in=scicom-slugs/sets/scicom-podcasts-2020-2022&si=814391b9e52c41189ccf59a323bb1d13&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) to listen. This project was led by [Chiara Villanueva](https://www.chiaravillanueva.com/), a recent graduate of the Science Communication program at UC Santa Cruz. This podcast will accompany a long-form narrative piece by Chiara - coming soon!
+
 ## Contact
 
 Email: [ccarreir@ucsc.edu](mailto:ccarreir@ucsc.edu)
