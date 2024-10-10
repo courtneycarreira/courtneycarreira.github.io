@@ -13,16 +13,13 @@ I earned my Bachelor of Science in Physics, with a minor in Applied Mathematics 
 In my free time, I enjoy cooking and baking - along the way, I'm digitizing all of my family's old recipes from Cuba!
 
 {% include_relative _includes/publications.html %}
-
 {% include_relative _includes/presentations.html %}
-
 ---
 
 <img src="./assets/img/aas2023_1.jpg"
      alt="Courtney Carreira during her iPoster presentation at the AAS Winter Meeting in January 2023. She is wearing a white and black striped sweater, and gesturing at the screen behind her which displays her iPoster."
      style="float: left; margin-right: 10px;" />
 *Courtney ~~gesturing wildly at~~ presenting her iPoster at the AAS Winter Meeting in January 2023, in Seattle, WA. (Photo by © CorporateEventImages/Todd Buchanan 2023.)*
-
 ---
 
 <!-- ## Research
