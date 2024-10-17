@@ -227,9 +227,9 @@ papertitle {
       }
 
       .image.avatar img {
-        /* border-radius: 12px; */
-        width: 95%;
-        padding: 10px;
+        /* border-radius: 0px; */
+        width: 100%;
+        padding: 0px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -237,7 +237,7 @@ papertitle {
 
     #header .image.avatar {
       margin: 0 0 1em 0;
-      width: 8.00em;
+      width: 100%;
     }
 
 h3, h4, h5, h6 {
