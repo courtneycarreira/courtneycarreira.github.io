@@ -17,7 +17,7 @@ body {
 .social-icons a{
   display:inline-block;
   height:3rem;
-  width:3rem;
+  width:2.5rem;
   background-color:transparent;
   color:#043361!important;
   border-radius:100%;
@@ -219,7 +219,7 @@ papertitle {
     }
 
     .image.avatar {
-      /* border-radius: 20px; */
+      /* border-radius: 0px; */
     }
 
       .image.avatar:before {
@@ -227,7 +227,7 @@ papertitle {
       }
 
       .image.avatar img {
-        /* border-radius: 20px; */
+        /* border-radius: 0px; */
         width: 100%;
         padding: 0px;
         // border: 1px solid #ddd;
@@ -511,7 +511,7 @@ footer {
 
 
    .image.avatar img {
-        /* border-radius: 100%; */
+        /* border-radius: 0%; */
         /* width: 100%; */
          /*padding:20px; */
       }
@@ -567,7 +567,7 @@ footer {
   }
 
   .image.avatar img {
-      /* border-radius: 100%; */
+      /* border-radius: 0%; */
       /* width: 100%; */
       /* padding:20px; */
   }
