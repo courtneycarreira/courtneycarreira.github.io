@@ -31,7 +31,7 @@ include link to ADS again
 
 ## In the Press
 
-I was featured on a podcast about my experience as an early-career researcher working with JWST data - click [here](https://soundcloud.com/scicom-slugs/conducting-science-with-jwst-as-an-early-career-researcher?in=scicom-slugs/sets/scicom-podcasts-2020-2022&si=814391b9e52c41189ccf59a323bb1d13&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) to listen. This project was led by [Chiara Villanueva](https://www.chiaravillanueva.com/), a recent graduate of the Science Communication program at UC Santa Cruz. This podcast will accompany a long-form narrative piece by Chiara - coming soon!
+* I was featured in ["Catching Ancient Stars Beyond Space and Time"](https://ucscsciencenotes.com/feature/catching-ancient-stars-beyond-space-and-time/) by [Chiara Villanueva](https://www.chiaravillanueva.com/), a graduate of the Science Communication Master's Program at UC Santa Cruz. This project included a podcast interview, ["Conducting Science with the James Webb Space Telescope as an Early-Career Researcher"](https://soundcloud.com/scicom-slugs/conducting-science-with-jwst-as-an-early-career-researcher?in=scicom-slugs/sets/scicom-podcasts-2020-2022&si=814391b9e52c41189ccf59a323bb1d13&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
 
 ## Contact
 
