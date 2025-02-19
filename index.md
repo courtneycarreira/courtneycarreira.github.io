@@ -46,3 +46,9 @@ Mailing Address: <br>
 &nbsp; &nbsp; Santa Cruz, CA 95060
 
 <!-- Science Digest info, info in layman's terms and contact about public talks -->
+
+---
+Looking for a fun galaxies-related activity? I'm a huge fan of [http://mygalaxies.co.uk/](http://mygalaxies.co.uk/), which lets you write any text message in real SDSS galaxy images!
+<img src="./assets/img/helloworld.png"
+     alt="SDSS galaxis spelling out 'hello world'."
+     style="float: left; margin-right: 10px;" />
