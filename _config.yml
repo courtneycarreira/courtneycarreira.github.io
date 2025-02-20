@@ -1,10 +1,11 @@
 # Basic Information 
 title: Courtney Carreira (she/her)
 # for position, actually put affiliation
-position: University of California, Santa Cruz
+pronouns: she/her
 # for affiliation, actually put email
-affiliation: ccarreir@ucsc.edu
-affiliation_link: mailto:ccarreir@ucsc.edu
+affiliation: University of California, Santa Cruz
+email: ccarreir@ucsc.edu
+email_link: mailto:ccarreir@ucsc.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -24,9 +25,9 @@ google_scholar: https://scholar.google.com/citations?user=-g-yiiMAAAAJ&hl=en&oi=
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/static_img/avatar.png
+favicon: ./assets/static_img/favicon.png
+favicon_dark: ./assets/static_img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
