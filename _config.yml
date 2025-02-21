@@ -8,9 +8,9 @@ email_link: mailto:ccarreir@ucsc.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-# keywords: minimal light
-# description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-# canonical: https://minimal-light-theme.yliu.me/
+keywords: Courtney Carreira astronomy
+description: Academic homepage for astronomer Courtney Carreira.
+canonical: https://courtneycarreira.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -30,7 +30,7 @@ favicon_dark: ./assets/static_img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
