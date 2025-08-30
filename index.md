@@ -41,7 +41,7 @@ You can hear me, and many other astronomers, describe the impact of the James We
 
 Email: [ccarreir@ucsc.edu](mailto:ccarreir@ucsc.edu)
 
-Office: Interdisciplinary Sciences Building, Office 159
+Office: Interdisciplinary Sciences Building, Office 291
 
 Mailing Address: <br>
 &nbsp; &nbsp; Courtney Carreira <br>
