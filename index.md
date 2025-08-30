@@ -6,11 +6,11 @@ layout: homepage
 
 I am an observational astronomer, with a particular interest in the structural evolution of galaxies across cosmic time.
 
-I am a second-year PhD student at the University of California, Santa Cruz, in the Department of Astronomy and Astrophysics. Currently, I'm working with Professor Brant Robertson in the [UCSC Computational Astrophysics](https://robertson.sites.ucsc.edu/) group, using data from the [JWST Advanced Deep Extragalactic Survey (JADES)](https://jades-survey.github.io/) to study galaxy morphology and evolution. In particular, I analyze the surface brightness profiles of galaxies across a wide range of redshifts, using GPU-enabled Markov chain Monte Carlo methods to maximize on statistical robustness while maintaining computational efficiency.
+I am a third-year PhD student at the University of California, Santa Cruz, in the Department of Astronomy and Astrophysics. Currently, I'm working with Professor Brant Robertson in the [UCSC Computational Astrophysics](https://robertson.sites.ucsc.edu/) group, using data from the [JWST Advanced Deep Extragalactic Survey (JADES)](https://jades-survey.github.io/) to study galaxy morphology and evolution. In particular, I analyze the surface brightness profiles of galaxies across a wide range of redshifts, using GPU-enabled Markov chain Monte Carlo methods to maximize on statistical robustness while maintaining computational efficiency.
 
 <!-- I'm also working with Eric Koch and Sarah Jeffreson at the Center for Astrophysics \| Harvard & Smithsonian on a project studying the effect of spiral structure on molecular cloud and star formation, which I started as a [SAO Astronomy REU](https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program) intern in Summer 2022. -->
 
-I earned my Bachelor of Science in Physics, with a minor in Applied Mathematics & Statistics, from Johns Hopkins University in May 2023.
+I earned my Master of Science in Astronomy & Astrophysics from UCSC in June 2025, and my Bachelor of Science in Physics, with a minor in Applied Mathematics & Statistics, from Johns Hopkins University in May 2023.
 
 In my free time, I enjoy cooking and baking - along the way, I'm digitizing all of my family's old recipes from Cuba!
 
