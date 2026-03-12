@@ -59,3 +59,52 @@
        bibtex = {https://ui.adsabs.harvard.edu/abs/2021LPI....52.2258A/exportcitation},
         press = {}
 }
+
+
+@ARTICLE{2026MNRAS.tmp..413D,
+ project_page = {},
+          pdf = {https://arxiv.org/pdf/2510.06315},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag437/8507256?login=false},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..413D/exportcitation},
+        press = {}
+}
+
+@ARTICLE{2026arXiv260115965Z,
+ project_page = {},
+          pdf = {https://arxiv.org/pdf/2601.15965},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2026arXiv260115965Z/exportcitation},
+        press = {https://astrobites.org/2026/02/11/should-i-stay-should-i-go/}
+}
+
+@ARTICLE{2026arXiv260115957C,
+ project_page = {},
+          pdf = {https://arxiv.org/pdf/2601.15957},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2026arXiv260115957C/exportcitation},
+        press = {}
+}
+
+@ARTICLE{2026arXiv260115959H,
+ project_page = {},
+          pdf = {https://arxiv.org/pdf/2601.15959},
+        video = {},
+ supplemental = {},
+        photo = {},
+         code = {},
+       source = {},
+       bibtex = {https://ui.adsabs.harvard.edu/abs/2026arXiv260115959H/exportcitation},
+        press = {}
+}

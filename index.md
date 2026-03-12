@@ -15,7 +15,7 @@ I earned my Master of Science in Astronomy & Astrophysics from UCSC in June 2025
 In my free time, I enjoy cooking and baking - along the way, I'm digitizing all of my family's old recipes from Cuba!
 
 {% include_relative _includes/publications.html %}
-{% include_relative _includes/presentations.html %}
+<!-- {% include_relative _includes/presentations.html %} -->
 ---
 
 <img src="./assets/img/aas2023_1.jpg"
