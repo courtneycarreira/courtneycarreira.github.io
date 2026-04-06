@@ -47,7 +47,7 @@ Mailing Address: <br>
 &nbsp; &nbsp; Courtney Carreira <br>
 &nbsp; &nbsp; MS: UCO / Lick Observatory <br>
 &nbsp; &nbsp; 1156 High Street <br>
-&nbsp; &nbsp; Santa Cruz, CA 95060
+&nbsp; &nbsp; Santa Cruz, CA 95064
 
 <!-- Science Digest info, info in layman's terms and contact about public talks -->
 
