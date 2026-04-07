@@ -37,7 +37,7 @@ I was featured in ["Catching Ancient Stars Beyond Space and Time"](https://ucscs
 
 You can hear me, and many other astronomers, describe the impact of the James Webb Space Telescope on studies of the universe in this video, put together by the Space Telescope Science Institute.
 
-<iframe width="650px" height="100%" src="https://www.youtube.com/embed/gCiVrAFz9P0?si=CLXPKTp4fHMhCABv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="650" height="365" src="https://www.youtube.com/embed/gCiVrAFz9P0?si=CLXPKTp4fHMhCABv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Contact
 
