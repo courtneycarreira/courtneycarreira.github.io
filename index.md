@@ -35,7 +35,9 @@ include link to ADS again
 
 I was featured in ["Catching Ancient Stars Beyond Space and Time"](https://ucscsciencenotes.com/feature/catching-ancient-stars-beyond-space-and-time/) by [Chiara Villanueva](https://www.chiaravillanueva.com/), a graduate of the Science Communication Master's Program at UC Santa Cruz. This project included a podcast interview, ["Conducting Science with the James Webb Space Telescope as an Early-Career Researcher"](https://soundcloud.com/scicom-slugs/conducting-science-with-jwst-as-an-early-career-researcher?in=scicom-slugs/sets/scicom-podcasts-2020-2022&si=814391b9e52c41189ccf59a323bb1d13&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
 
-You can hear me, and many other astronomers, describe the impact of the James Webb Space Telescope on studies of the universe in this video, ["The James Webb Space Telescope Reveals the Early Universe"](https://www.youtube.com/watch?v=gCiVrAFz9P0), put together by the Space Telescope Science Institute.
+You can hear me, and many other astronomers, describe the impact of the James Webb Space Telescope on studies of the universe in this video, put together by the Space Telescope Science Institute.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gCiVrAFz9P0?si=CLXPKTp4fHMhCABv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Contact
 
