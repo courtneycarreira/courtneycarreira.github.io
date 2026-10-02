@@ -6,7 +6,7 @@ layout: homepage
 
 I am an observational astronomer, with a particular interest in the structural evolution of galaxies across cosmic time.
 
-I am a third-year PhD candidate at the University of California, Santa Cruz, in the Department of Astronomy and Astrophysics. Currently, I'm working with Professor Brant Robertson in the [UCSC Computational Astrophysics](https://robertson.sites.ucsc.edu/) group, using data from the [JWST Advanced Deep Extragalactic Survey (JADES)](https://jades-survey.github.io/) to study galaxy morphology and evolution. In particular, I analyze the surface brightness profiles of galaxies across a wide range of redshifts, using GPU-enabled Markov chain Monte Carlo methods to maximize on statistical robustness while maintaining computational efficiency.
+I am a fourth-year PhD candidate at the University of California, Santa Cruz, in the Department of Astronomy and Astrophysics. Currently, I'm working with Professor Brant Robertson in the [UCSC Computational Astrophysics](https://robertson.sites.ucsc.edu/) group, using data from the [JWST Advanced Deep Extragalactic Survey (JADES)](https://jades-survey.github.io/) to study galaxy morphology and evolution. In particular, I analyze the surface brightness profiles of galaxies across a wide range of redshifts, using GPU-enabled Markov chain Monte Carlo methods to maximize on statistical robustness while maintaining computational efficiency.
 
 <!-- I'm also working with Eric Koch and Sarah Jeffreson at the Center for Astrophysics \| Harvard & Smithsonian on a project studying the effect of spiral structure on molecular cloud and star formation, which I started as a [SAO Astronomy REU](https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-program) intern in Summer 2022. -->
 
@@ -37,7 +37,14 @@ I was featured in ["Catching Ancient Stars Beyond Space and Time"](https://ucscs
 
 You can hear me, and many other astronomers, describe the impact of the James Webb Space Telescope on studies of the universe in this video, put together by the Space Telescope Science Institute.
 
-<iframe width="650" height="365" src="https://www.youtube.com/embed/gCiVrAFz9P0?si=CLXPKTp4fHMhCABv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gCiVrAFz9P0?si=CLXPKTp4fHMhCABv"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+        style="float: left; margin-right: 10px"
+        ></iframe>
 
 
 ## Contact
