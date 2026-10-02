@@ -43,8 +43,8 @@ You can hear me, and many other astronomers, describe the impact of the James We
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin"
         allowfullscreen
-        style="float: left; margin-right: 10px"
         ></iframe>
+
 
 
 ## Contact
